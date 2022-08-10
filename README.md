@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://octodex.github.com/images/megacat-2.png" width="200"><br>
+<sup><strong>Fig 1:</strong> Megatocat into action</sup>
+</div>
+View more octocats on the [Octodex](https://octodex.github.com/)!
+
+
+
 <h1 align="center">Hi there,I'm Vural Kayra  👋</h1>
 <h3 align="center"> I'm a software developer. I'm working on mobile application.I'm using flutter/dart and swift</h3>
 
