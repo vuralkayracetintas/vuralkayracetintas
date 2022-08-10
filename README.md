@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, </h1>
-<h3 align="center">Vural Kayra Çetintaş. I'm a software developer. I'm working on mobile application.I'm using flutter/dart and swift</h3>
+<h1 align="center">Hi there👋, </h1>
+<h3 align="center">I'm Vural Kayra Çetintaş. I'm a software developer. I'm working on mobile application.I'm using flutter/dart and swift</h3>
 
 - 🌱 I’m currently learning **Swift,Flutter**
 
