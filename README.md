@@ -1,8 +1,8 @@
-<div align="topleft">
+<div align="left">
 <img src="https://octodex.github.com/images/megacat-2.png" width="400"><br>
 </div>
 
-<div align="topright">
+<div align="right">
 <img src="https://imgs.search.brave.com/wn3A4jNN_pPSDCc7Cj_3CGGn2YJK4g7e-fsGXtBZPGM/rs:fit:400:200:1/g:ce/aHR0cHM6Ly9naWZp/bWFnZS5uZXQvd3At/Y29udGVudC91cGxv/YWRzLzIwMTcvMDcv/ZG93bmxvYWQtZ2lm/LTIuZ2lm.gif" width="400"><br>
 </div>
 
