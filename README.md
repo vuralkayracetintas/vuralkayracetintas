@@ -1,5 +1,5 @@
-<div align="right">
-<img src="https://octodex.github.com/images/megacat-2.png" width="500"><br>
+<div align="start">
+<img src="https://octodex.github.com/images/megacat-2.png" width="400"><br>
 </div>
 
 
