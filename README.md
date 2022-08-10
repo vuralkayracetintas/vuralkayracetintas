@@ -2,11 +2,15 @@
 <img src="https://octodex.github.com/images/megacat-2.png" width="400"><br>
 </div>
 
+<div align="end">
+<img src="https://imgs.search.brave.com/wn3A4jNN_pPSDCc7Cj_3CGGn2YJK4g7e-fsGXtBZPGM/rs:fit:400:200:1/g:ce/aHR0cHM6Ly9naWZp/bWFnZS5uZXQvd3At/Y29udGVudC91cGxv/YWRzLzIwMTcvMDcv/ZG93bmxvYWQtZ2lm/LTIuZ2lm.gif" width="400"><br>
+</div>
 
 
 
-<h1 align="center">Hi there,I'm Vural Kayra  👋</h1>
-<h3 align="center"> I'm a software developer. I'm working on mobile application.I'm using flutter/dart and swift</h3>
+
+<h1 align="start">Hi there,I'm Vural Kayra  👋</h1>
+<h3 align="start"> I'm a software developer. I'm working on mobile application.I'm using flutter/dart and swift</h3>
 
 - 🌱 I’m currently learning **Swift,Flutter**
 
