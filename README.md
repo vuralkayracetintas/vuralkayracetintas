@@ -1,8 +1,7 @@
-<div align="center">
+<div align="right">
 <img src="https://octodex.github.com/images/megacat-2.png" width="500"><br>
-
 </div>
-View more octocats on the [Octodex](https://octodex.github.com/)!
+
 
 
 
