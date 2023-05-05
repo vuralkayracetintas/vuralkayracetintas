@@ -8,9 +8,7 @@
 
 
 <h1 align="start">Hi there,I'm Vural Kayra  👋</h1>
-<h3 align="start"> I'm a software developer. I'm working on mobile application.I'm using flutter/dart and swift</h3>
 
-- 🌱 I’m currently learning **Swift,Flutter and Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
